@@ -802,8 +802,8 @@
 03_22/Choo Choo Materials $1560.00.pdf
 03_22/Ferguson $2430.52.pdf
 03_22/Jerry Wright Drywall $5533.00.pdf
-03_22/Dayton Freight.pdf
 03_22/Ferguson $2396.31.pdf
+03_22/.DS_Store
 03_22/Ferguson $47.04.pdf
 03_22/McCay Southern Electrical $5374.46.pdf
 03_22/FBM $3245.35.pdf
@@ -859,7 +859,6 @@
 03_22/Home Depot $35.41.pdf
 03_22/Choo Choo Materials $1341.00.pdf
 03_22/UbreakIfix $32.91.pdf
-03_22/Harting Bishop and Arrendale.pdf
 03_22/Cleveland Plywood $530.81.pdf
 03_22/Cleveland Plywood $746.30.pdf
 03_22/Affordable HVAC $3432.00.pdf
@@ -933,10 +932,14 @@
 03_22/Cleveland Plywood $4330.35.pdf
 02_22/Cleveland Plywood $6820.82.pdf
 02_22/Cleveland Plywood $704.81.pdf
+02_22/Gas N Go $102.87.pdf
+02_22/Gas N Go $106.08.pdf
+02_22/Gas N Go $125.00.pdf
 02_22/Ferguson $59.02.pdf
 02_22/Cleveland Plywood $466.92.pdf
 02_22/Cleveland Transfer $29.75.pdf
 02_22/City of Cleveland Tax TOTAL $1448.00.pdf
+02_22/Gas N Go $115.49.pdf
 02_22/Cleveland Plywood $20466.29.pdf
 02_22/Cleveland Plywood $1163.13.pdf
 02_22/Cleveland Plywood $42969.40.pdf
@@ -974,17 +977,12 @@
 02_22/Cleveland Plywood $139.65.pdf
 02_22/Cleveland Transfer $107.10.pdf
 02_22/Cleveland Plywood $110.30.pdf
-02_22/GasNGo $125.00 (1).pdf
-02_22/GasNGo $125.00.pdf
 02_22/Cleveland Plywood $774.62.pdf
-02_22/GasNGo $102.87.pdf
 02_22/Cleveland Plywood $1807.01.pdf
-02_22/GasNGo $106.08.pdf
 02_22/Cleveland Plywood $4782.25.pdf
 02_22/Cleveland Plywood $65.72.pdf
 02_22/ACME Brick $4891.13.pdf
 02_22/City of Cleveland Tax $103.00 (2).pdf
-02_22/GasNGo $115.49.pdf
 02_22/Cleveland Utilities $503.11.pdf
 02_22/Ferguson $1216.29 (1).pdf
 02_22/Wholesale Supply Group $1685.72.pdf
@@ -1049,6 +1047,7 @@
 02_22/Bradley County Trustee $86.00.pdf
 02_22/General Shale $4105.62.pdf
 02_22/Bank of Cleveland Loan Payment $857.11.pdf
+02_22/Gas N Go $125.00 (1).pdf
 02_22/Choo Choo Materials $1455.00.pdf
 02_22/Bank of Cleveland Loan Payment $594.72.pdf
 02_22/Cleveland Plywood $1152.38.pdf

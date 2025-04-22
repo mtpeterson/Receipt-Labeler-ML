@@ -132,6 +132,17 @@ def transform_filename(filename):
     """Transform the filename according to the renaming rules."""
     new_name = filename
 
+    # Trying to make the function fix all problems at once:
+
+    # Fix Lot identifiers (e.g., Lot 12, Lot12) to be consistent (L12)
+
+    # Add decimals if missing
+
+    # Add dollar sign if missing (with negative signs in front of dollar sign)
+
+    # Capitalize names as needed
+
+
     # Replace " $ $" with " $"
     # new_name = re.sub(r'\s*\$\s*\$', r' $', new_name)
 
@@ -233,6 +244,10 @@ def fix_filenames(directory):
 def write_filenames_to_file(directory, output_file="filenames.txt"):
     """Write all filenames (with paths) to a text file."""
     try:
+        # Ensure the output file path is absolute
+        output_file = os.path.abspath('Renaming/' + output_file)
+        print(f"Writing filenames to: {output_file}")
+
         with open(output_file, "w") as file:
             for root, _, files in os.walk(directory):
                 for filename in files:
@@ -269,6 +284,10 @@ if __name__ == "__main__":
         print("  preview <folder_path> - Preview renames")
         print("  fix <folder_path> - Perform renames and log them")
         print("  revert - Revert renames based on the log")
+        print("  previewfix" + " <folder_path> - Preview fixes")
+        print("  previewrename" + " <folder_path> - Preview renames")
+        print("  rename" + " <folder_path> - Rename files")
+        print("  list" + " <folder_path> - List filenames")
     else:
         command = sys.argv[1]
         if command == "previewfix" and len(sys.argv) == 3:
